@@ -16,7 +16,7 @@ hum_btn.addEventListener("click", function(){
     body.classList.toggle("open")
 });
 
-//　
+//　ハンバーガーメニューをクリックしたとき
 const nodelist = document.querySelectorAll("li");
 for (let i = 0; i < nodelist.length; i++) {
     nodelist[i].addEventListener("click", function(){
