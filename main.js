@@ -9,12 +9,14 @@ document.addEventListener("scroll",function(){
     }
 })
 
+// ハンバーガータブをクリックしたとき
 const hum_btn = document.querySelector(".btn_open");
 const body = document.querySelector("body");
 hum_btn.addEventListener("click", function(){
     body.classList.toggle("open")
 });
 
+//　
 const nodelist = document.querySelectorAll("li");
 for (let i = 0; i < nodelist.length; i++) {
     nodelist[i].addEventListener("click", function(){
