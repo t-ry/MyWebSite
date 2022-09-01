@@ -39,7 +39,7 @@ section, main {position: relative; display: block;}
 }
 
 @media screen and (max-width: 812px) {
-    .btn_humberger_box { display: block; width: 32px; height: 32px; border-radius: 50%; position: fixed; right: 6.66vw; top: 23px; z-index: 10000; cursor: pointer; }
+    .btn_humberger_box { display: block;  width: 32px; height: 32px; border-radius: 50%; position: fixed; right: 6.66vw; top: 23px; z-index: 10000; cursor: pointer; }
     
     .nav { position: fixed; z-index: 10; top: 25px; left: 6.66vw; width: 20.4vw; }
     
