@@ -59,7 +59,7 @@ section, main {position: relative; display: block;}
 .takahashi_txt { margin-top: 72px; }
 
 
-.fav_body > .inner { width: 70%; margin: 0 auto;}
+/* .fav_body > .inner { width: 70%; margin: 0 auto;}
 .fav_body { width: 59.42%; margin: 0 auto 0; padding: 107px 0 107px } 
 .fav_name { font-size: 5.0rem; line-height: 1; }
 .fav_item_list { display: flex; flex-wrap: wrap; margin-top: 55px; }
@@ -72,7 +72,7 @@ section, main {position: relative; display: block;}
 .fav_item_name .r { font-size: 1.6rem; width: 16px; }
 .fav_item_name .link_external { position: relative; }
 .fav_item_name .link_external span { display: block; width: 16px; position: absolute; right: -24px; top: 5px; line-height: 0; }
-.fav_item_name .link_external span img { width: 100%;}
+.fav_item_name .link_external span img { width: 100%;} */
 
 .wrapper { background-color: #444; }
 .copywrites{ color: #ddd; width: 141px; padding: 10px; margin: 0 auto; }
